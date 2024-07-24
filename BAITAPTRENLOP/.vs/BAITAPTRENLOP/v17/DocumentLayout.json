@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|d:\\luudulieuhoctap\\2001202262_tranthiminhthu_tuan3\\baitaptrenlop\\baitaptrenlop\\bai1codequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|solutionrelative:baitaptrenlop\\bai1codequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|d:\\luudulieuhoctap\\2001202262_tranthiminhthu_tuan3\\baitaptrenlop\\baitaptrenlop\\bt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|solutionrelative:baitaptrenlop\\bt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|d:\\luudulieuhoctap\\2001202262_tranthiminhthu_tuan3\\baitaptrenlop\\baitaptrenlop\\quicksort .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|solutionrelative:baitaptrenlop\\quicksort .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|d:\\luudulieuhoctap\\2001202262_tranthiminhthu_tuan3\\baitaptrenlop\\baitaptrenlop\\bt3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|solutionrelative:baitaptrenlop\\bt3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|d:\\luudulieuhoctap\\2001202262_tranthiminhthu_tuan3\\baitaptrenlop\\baitaptrenlop\\bt3codequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|solutionrelative:baitaptrenlop\\bt3codequy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|d:\\luudulieuhoctap\\2001202262_tranthiminhthu_tuan3\\baitaptrenlop\\baitaptrenlop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A75B8C9-4A3C-4A00-BA32-3BC7C542304B}|BAITAPTRENLOP\\BAITAPTRENLOP.csproj|solutionrelative:baitaptrenlop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BT3CoDeQuy.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\BT3CoDeQuy.cs",
+              "RelativeDocumentMoniker": "BAITAPTRENLOP\\BT3CoDeQuy.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\BT3CoDeQuy.cs",
+              "RelativeToolTip": "BAITAPTRENLOP\\BT3CoDeQuy.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvy8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:47:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BT3.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\BT3.cs",
+              "RelativeDocumentMoniker": "BAITAPTRENLOP\\BT3.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\BT3.cs",
+              "RelativeToolTip": "BAITAPTRENLOP\\BT3.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:34:34.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai1CoDeQuy.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\Bai1CoDeQuy.cs",
+              "RelativeDocumentMoniker": "BAITAPTRENLOP\\Bai1CoDeQuy.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\Bai1CoDeQuy.cs",
+              "RelativeToolTip": "BAITAPTRENLOP\\Bai1CoDeQuy.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAnwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:48:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickSort .cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\QuickSort .cs",
+              "RelativeDocumentMoniker": "BAITAPTRENLOP\\QuickSort .cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\QuickSort .cs",
+              "RelativeToolTip": "BAITAPTRENLOP\\QuickSort .cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswEcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:43:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BT1.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\BT1.cs",
+              "RelativeDocumentMoniker": "BAITAPTRENLOP\\BT1.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\BT1.cs",
+              "RelativeToolTip": "BAITAPTRENLOP\\BT1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:36:54.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\Program.cs",
+              "RelativeDocumentMoniker": "BAITAPTRENLOP\\Program.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\2001202262_TranThiMinhThu_Tuan3\\BAITAPTRENLOP\\BAITAPTRENLOP\\Program.cs",
+              "RelativeToolTip": "BAITAPTRENLOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:14:36.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
